@@ -1,0 +1,13 @@
+*~
+foo*
+.ipynb_checkpoints
+*.npz
+*-Copy*.ipynb
+data/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+*.jld
+*.json
+*.jld2
